@@ -1,6 +1,6 @@
 # serverless-node
 
-## 필수구성
+## 환경설정
 
 1. AWS
    * aws 계정
