@@ -17,7 +17,7 @@ brew install nvm
 ```bash
 ## 설치 가능한 node version list
 nvm ls-remote
-nvm list available # 또는 nvm ls available # on window 
+nvm list available # 또는 nvm ls available # on window
 
 ## node v10.16.0을 install
 nvm install v10.16.0
