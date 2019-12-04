@@ -7,7 +7,3 @@
 * [REST API Lambda](https://github.com/yogae/serverless-api-nodejs-auroradb)
 
 * [S3 create event trigger](https://github.com/yogae/serverless-s3-trigger-nodejs)
-
-## Cloudfront
-
-* [cloudfront 설명](./etc/cloudfront.md)

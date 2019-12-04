@@ -18,4 +18,5 @@
 ## 목차
 
 * [step1](./step1.md): 전체 구성 설명, serverless 구성
-* [step2](./step2.md): node express server, s3 create event trigger, cloudfront 구성
+* [step2](./step2.md): node express server, s3 create event trigger
+* [step3](./step3.md): cloudfront 구성 - s3 create event trigger
